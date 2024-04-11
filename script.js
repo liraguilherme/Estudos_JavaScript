@@ -1,0 +1,1 @@
+console.log("Olá JavaScript!"); //Imprime uma mensagem no navegador, nosso printf :D
